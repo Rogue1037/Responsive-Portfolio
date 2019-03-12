@@ -215,3 +215,43 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
+@media screen and (min-width: 480px) {
+
+#masthead {
+  position: static;
+
+}
+}
+
+@media screen and (min-width: 980px) {
+ 
+  .container {
+
+    max-width: 100%;
+
+  }
+
+}
+
+@media screen and (min-width: 768px) {
+
+  .container {
+  max-width: 100%;
+  background-color: #666666;
+
+}
+
+}
+
+@media screen and (min-width: 640px) {
+.contianer {
+  max-width: 100%;
+  background-color: #eeeeee;
+  
+}
+}
+
+
+
