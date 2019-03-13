@@ -240,6 +240,9 @@ input[type=submit] {
   .container {
   max-width: 100%;
   background-color: #666666;
+  padding: 5PX;
+  margin: auto 0;
+  
 
 }
 
